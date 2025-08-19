@@ -1,1 +1,8 @@
-https://github.com/NoOneAsked/blueberries/blob/main/blueberries.png?raw=true
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="blueberries.png">
+
+</body>
+</html>
