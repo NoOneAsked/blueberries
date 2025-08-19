@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<img src="blueberries.png">
+<img style="text-align:center;" src="blueberries.png">
 
 </body>
 </html>
